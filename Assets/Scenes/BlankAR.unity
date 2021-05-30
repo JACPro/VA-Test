@@ -350,6 +350,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   animationManager: {fileID: 8341601045642265635}
   placeableObject: {fileID: 8341601045642265633}
+  pinchThreshold: 200
 --- !u!4 &676114612
 Transform:
   m_ObjectHideFlags: 0
